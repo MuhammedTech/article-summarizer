@@ -4,6 +4,9 @@ from bs4 import BeautifulSoup
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lex_rank import LexRankSummarizer
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
 
 
 def summarizer():

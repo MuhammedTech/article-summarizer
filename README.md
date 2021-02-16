@@ -11,7 +11,7 @@ Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have a `Windows/Linux/Mac` machine.
 * You have installed the latest version of `Python`
-* You have read `https://github.com/MuhammedTech/article-summerizer/blob/main/README.md`.
+* You have read `https://github.com/MuhammedTech/article-summarizer/blob/main/README.md`.
 
 ## Installing Article Summarizer
 

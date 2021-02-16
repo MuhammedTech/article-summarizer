@@ -10,56 +10,40 @@ Article Summerizer is an app that summerize any article by just getting its URL.
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have installed the latest version of `Python`
-* You have a `Windows/Linux/Mac` machine. State which OS is supported/which is not.
+* You have a `Windows/Linux/Mac` machine.
 * You have read `https://github.com/MuhammedTech/article-summerizer/blob/main/README.md`.
 
 ## Installing Article Summerizer
 
-To run <Article Summerizer>, follow these steps:
+To run Article Summerizer follow these steps:
 
-Linux and macOS:
 ```
 pip install -r requirements.txt
 ```
 
-## Using <project_name>
+## Using Article Summerizer
 
-To use <project_name>, follow these steps:
+To use Article Summerizer, follow these steps:
 
 ```
-python summerizer.py <wiki-url>
+ python summerizer.py <wiki-url>
 ```
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+## Example
+```
+ python summerizer.py https://en.wikipedia.org/wiki/Natural_language_processing
+```
+```
+Starting in the late 1980s, however, there was a revolution in natural language processing with the introduction of machine learning algorithms for language processing. Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural-language generation. Up to the 1980s, most natural language processing systems were based on complex sets of hand-written rules. The cache language models upon which many speech recognition systems now rely are examples of such statistical models. [17] The following is a list of some of the most commonly researched tasks in natural language processing. Though natural language processing tasks are closely intertwined, they can be subdivided into categories for convenience. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing.
+```
 
-## Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
-
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
-
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* [@scottydocs](https://github.com/scottydocs) 📖
-* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
-
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
 ## Contact
 
-If you want to contact me you can reach me at <your_email@address.com>.
+If you want to contact me you can reach me at alimbetov.mu@gmail.com.
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [<license_name>](<link>).
+<!--- This project uses the following license: [<license_name>](<link>) --->
 

@@ -26,17 +26,17 @@ To run Article Summarizer run:
 To use Article Summarizer run:
 
 ```
- python summarizer.py <wiki-url>
+ python summarizer.py
 ```
 
 ## Example
    ###### INPUT
 ```
- python summarizer.py https://en.wikipedia.org/wiki/Natural_language_processing
+ python summarizer.py 'https://en.wikipedia.org/wiki/Los_Angeles'
 ```
    ###### OUTPUT
 ```
- Starting in the late 1980s, however, there was a revolution in natural language processing with the introduction of machine learning algorithms for language processing. Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural-language generation. Up to the 1980s, most natural language processing systems were based on complex sets of hand-written rules. The cache language models upon which many speech recognition systems now rely are examples of such statistical models. [17] The following is a list of some of the most commonly researched tasks in natural language processing. Though natural language processing tasks are closely intertwined, they can be subdivided into categories for convenience. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing.
+ The city, which covers about 469 square miles (1,210 km2),  is the seat of Los Angeles County, the most populous county in the United States.The Los Angeles metropolitan area (MSA) is home to 13.1 million people, making it the second-largest metropolitan area in the nation after New York.The eastern end of the Santa Monica Mountains stretches from Downtown to the Pacific Ocean and separates the Los Angeles Basin from the San Fernando Valley.Temperatures in the San Fernando and San Gabriel Valleys are considerably warmer.Apart from South Los Angeles, neighborhoods in the Central region of Los Angeles, as Mid-City and Mid-Wilshire have a moderate concentration of African Americans as well.Los Angeles is the largest manufacturing center in the United States.The city's Hollywood neighborhood has become recognized as the center of the motion picture industry and the Los Angeles area is also associated as being the center of the television industry.The Los Angeles Music Center is "one of the three largest performing arts centers in the nation", with more than 1.3 million visitors per year.There are 15 city council districts.
 ```
 
 

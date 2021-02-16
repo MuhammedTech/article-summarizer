@@ -1,9 +1,9 @@
 
 # Article Summerizer
 
-`Article Summerizer` is a software allows `anyone` to do `Article Summarization by just inputting an URL`.
+`Article Summarizer` is a software that allows `anyone` to do `Article Summarization by just inputting an URL`.
 
-Article Summerizer is an app that summerize any article by just getting its URL. It implements NLTK, Beautiful Soup and Regular Expression to effectively extract the keywords and output summarization of the article.
+Article Summarizer is an app that summarizes any article by just getting its URL. It implements NLTK, Beautiful Soup, and Regular Expression to effectively extract the keywords and output summarization of the article.
 
 ## Prerequisites
 
@@ -13,26 +13,26 @@ Before you begin, ensure you have met the following requirements:
 * You have installed the latest version of `Python`
 * You have read `https://github.com/MuhammedTech/article-summerizer/blob/main/README.md`.
 
-## Installing Article Summerizer
+## Installing Article Summarizer
 
-To run Article Summerizer run:
+To run Article Summarizer run:
 
 ```
  pip install -r requirements.txt
 ```
 
-## Using Article Summerizer
+## Using Article Summarizer
 
-To use Article Summerizer run:
+To use Article Summarizer run:
 
 ```
- python summerizer.py <wiki-url>
+ python summarizer.py <wiki-url>
 ```
 
 ## Example
    ###### INPUT
 ```
- python summerizer.py https://en.wikipedia.org/wiki/Natural_language_processing
+ python summarizer.py https://en.wikipedia.org/wiki/Natural_language_processing
 ```
    ###### OUTPUT
 ```

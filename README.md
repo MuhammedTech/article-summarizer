@@ -3,7 +3,7 @@
 
 `Article Summarizer` is a software that allows `anyone` to do `Article Summarization by just inputting an URL`.
 
-Article Summarizer is an app that summarizes any article by just getting its URL. It implements NLTK, Beautiful Soup, and Regular Expression to effectively extract the keywords and output summarization of the article.
+Article Summarizer is an app that summarizes any article by just getting its URL. It implements NLTK, Beautiful Soup, and LexRank Algorithm to effectively extract the keywords and output summarization of the article.
 
 ## Prerequisites
 

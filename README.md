@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing Article Summarizer
 
-To run Article Summarizer run:
+To install Article Summarizer run:
 
 ```
  pip install -r requirements.txt
